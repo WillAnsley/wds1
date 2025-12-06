@@ -1,0 +1,18 @@
+body {
+    margin: 0 auto;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+h1  {
+  font-family: "Red Rose", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+a {
+    text-decoration: none;
+}
+img {
+    max-width: 1000px;
+    margin: 0 auto;
+}

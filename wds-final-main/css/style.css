@@ -1,0 +1,40 @@
+h1 {
+    font-family: "Red Rose", serif;
+}
+
+body {
+    margin: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 1.3rem;
+    color:rgb(23, 76, 78);
+    background-color: rgb(186, 154, 186);
+    text-align: center;
+}
+
+main {
+    padding: 50px;
+    border: 5px double rgb(230, 255, 141);
+    background-color: aquamarine;
+    border-radius: 10px;
+    width: 80%;
+    margin: 0 auto;
+    text-align: left;
+    line-height: 2rem;
+}
+
+
+strong {
+    font-weight: 900;
+}
+
+i {
+    font-style: italic;
+}
+
+a:link, a:visited, a:hover, a:active {
+    color:rgb(41, 137, 141);
+    font-weight: 700;
+}
